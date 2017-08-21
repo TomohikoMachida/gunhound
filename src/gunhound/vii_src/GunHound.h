@@ -202,7 +202,7 @@ typedef struct StHoundConfig
 	Sint32 sArmorColor;
 	Sint32 sNoArmor;
 
-	Sint32 sDummy[enOptionMax-1];
+	Sint32 sDummy[enOptionMax];
 
 }StHoundConfig;
 
